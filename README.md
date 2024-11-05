@@ -2,7 +2,7 @@
 
 npm i
 
-# Test Local
+# Test local
 
 npm run dev
 
